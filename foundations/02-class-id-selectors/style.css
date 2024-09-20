@@ -1,4 +1,9 @@
-.number-one, .number-two, .number-three {
+.number-one, .number-three, .number-five {
     font-family: Verdana, "DejaVu Sans", sans-serif;
     background-color: hsl(0,60%,83%);
+}
+
+#number-two {
+    color: rgb(0,0,255);
+    font-size: 36px;
 }
