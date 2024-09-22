@@ -16,6 +16,11 @@ body {
   font-size: 22px;
 }
 
+.button.confirm,
+.button.cancel {
+  font-size: 20px;
+}
+
 #confirm-button {
   background: green;
   color: white;
@@ -27,10 +32,6 @@ body {
   color: rgb(0, 0, 0);
 }
 
-.button.confirm,
-.button.cancel {
-  font-size: 20px;
-}
 
 div.text {
   color: rgb(0, 0, 0);
