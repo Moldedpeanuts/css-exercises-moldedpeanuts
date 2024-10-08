@@ -26,12 +26,12 @@ body {
 
 .links {
   display: flex;
-  gap: 1rem;
+  gap: 16px;
 }
 
 .right-links {
   display: flex;
-  gap: 1rem;
+  gap: 16px;
 }
 
 
