@@ -24,6 +24,11 @@ body {
 
 }
 
+.links {
+  display: flex;
+  gap: 1rem;
+}
+
 .right-links {
   display: flex;
 }
