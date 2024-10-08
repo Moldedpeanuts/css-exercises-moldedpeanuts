@@ -9,17 +9,25 @@ body {
   font-family: Besley, serif;
 }
 
-.header-container {
-  display: flex;
-  justify-content: space-between;
-}
-
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
+
+.left-links {
+  display: flex;
+
+}
+
+.right-links {
+  display: flex;
+}
+
 
 .profile-image {
   background: rebeccapurple;
