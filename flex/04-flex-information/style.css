@@ -35,3 +35,11 @@ img {
   display: flex;
   gap: 52px;
 }
+
+.items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
