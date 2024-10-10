@@ -71,5 +71,9 @@ button.cancel {
   color: royalblue;
 }
 
+.icon {
+  flex-shrink: 0;
+}
+
 
 
