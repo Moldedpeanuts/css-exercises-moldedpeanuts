@@ -38,3 +38,8 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.input {
+  display: flex;
+  justify-content: center;
+}
