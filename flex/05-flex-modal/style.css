@@ -69,9 +69,7 @@ button.cancel {
   color: royalblue;
 }
 
-.first-row {
-  font-weight: 700;
-  font-size: 20px;
-  display: flex;
-
+.header-container {
+  font-size: 21px;
+  font-weight: 800;
 }
