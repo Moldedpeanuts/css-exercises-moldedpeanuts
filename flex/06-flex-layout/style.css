@@ -33,3 +33,8 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
