@@ -70,6 +70,8 @@ button.cancel {
 }
 
 .first-row {
+  font-weight: 700;
+  font-size: 20px;
   display: flex;
-  
+
 }
