@@ -21,6 +21,8 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 16px;
+  display: flex;
+  gap: 20px;
 }
 
 .icon {
@@ -69,9 +71,5 @@ button.cancel {
   color: royalblue;
 }
 
-.header-container {
-  font-size: 21px;
-  font-weight: 800;
-  display: flex;
-  gap: 12px;
-}
+
+
