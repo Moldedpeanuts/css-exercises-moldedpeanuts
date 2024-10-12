@@ -37,12 +37,7 @@ a {
   text-decoration: none;
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  padding: 8px;
-}
-
+.header,
 .footer {
   display: flex;
   justify-content: space-between;
