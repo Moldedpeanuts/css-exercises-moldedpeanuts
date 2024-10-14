@@ -12,7 +12,8 @@ body {
   background: darkmagenta;
   color: white;
   border: 1px solid red;
-  font-weight: 800;
+  font-weight: 900;
+  font-size: 32px;
   display: flex;
   align-items: center;
 }
