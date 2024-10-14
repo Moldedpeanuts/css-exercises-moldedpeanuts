@@ -11,12 +11,14 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  border: 1px solid red;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  border: 1px solid red;
 }
 
 .sidebar {
@@ -31,5 +33,6 @@ body {
   border-radius: 4px;
 }
 
-
-
+.main-section {
+  border: 1px solid red;
+}
